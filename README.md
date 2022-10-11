@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Developer-Siva
+- 👋 Hi, I’m Shiva
 - 👀 I’m interested in play with coding problems
 - 🌱 I’m currently learning MEAN Stack
 - 💞️ I’m looking to collaborate on Team Work Project
